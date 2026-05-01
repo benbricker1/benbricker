@@ -38,7 +38,7 @@ Took part in developing a web application for creating help desk tickets, postin
 Served as the Project Manager and Scrum Master for part of the Helena College Help Desk Ticketing System project. Oversaw sprint planning, created user stories, wrote acceptance criteria, organized backlog items, reviewed sprint progress, and documented sprint reviews and retrospectives. The sprint work focused on ticket creation, viewing open tickets, viewing ticket details, and updating ticket status.
 
 **Skills Demonstrated:** Scrum, Agile, Sprint Planning, User Stories, Acceptance Criteria, Backlog Management, Project Documentation  
-**Repository:** Link here
+**Repository:** https://github.com/benbricker1/helena-college-help-desk-project-management
 
 ### Systems Analysis and Design Final Project
 Worked as part of a team to analyze, design, and document a proposed CRM-style system for a local college. The project included a system overview, problem analysis, needs assessment, functional requirements, user stories, alternatives, cost feasibility, and system diagrams.
