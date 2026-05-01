@@ -36,6 +36,7 @@ Took part in developing a web application for creating help desk tickets, postin
 
 ### Helena College Help Desk Project Management Report
 Served as the Project Manager and Scrum Master for part of the Helena College Help Desk Ticketing System project. Oversaw sprint planning, created user stories, wrote acceptance criteria, organized backlog items, reviewed sprint progress, and documented sprint reviews and retrospectives. The sprint work focused on ticket creation, viewing open tickets, viewing ticket details, and updating ticket status.
+
 **Skills Demonstrated:** Scrum, Agile, Sprint Planning, User Stories, Acceptance Criteria, Backlog Management, Project Documentation  
 **Repository:** Link here
 
