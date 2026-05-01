@@ -44,4 +44,4 @@ Served as the Project Manager and Scrum Master for part of the Helena College He
 Worked as part of a team to analyze, design, and document a proposed CRM-style system for a local college. The project included a system overview, problem analysis, needs assessment, functional requirements, user stories, alternatives, cost feasibility, and system diagrams.
 
 **Skills Demonstrated:** Systems Analysis, Requirements Gathering, User Stories, Feasibility Analysis, Documentation, ERD/DFD Planning  
-**Repository:** Link here
+**Repository:** https://github.com/benbricker1/sad-final-project
