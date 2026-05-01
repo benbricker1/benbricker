@@ -25,14 +25,16 @@ A web service for managing intramural sports leagues, including sports, teams, p
 **Repository:** https://github.com/benbricker1/intramural-sports-service
 
 ### Help Desk Ticketing App (Capstone Project)
-Took Part in Devloping A web application for creating tickets, posting comments, assigning roles, and managing support tasks.
+Took part in developing a web application for creating help desk tickets, posting comments, assigning application roles, assigning technicians, updating ticket status, and managing support tasks. This project was based on a Helena College ticketing system concept and used sprint-based development.
 **Technologies:** Java, html, PostgreSQL  
 **Repository:** Link here
 
-### Project Managment Oversite
-Played the role of as a Scrum Master and oversaw a develper, did things like Create User Storys and gave acceptiance criteria and put into documentation form
+### Helena College Help Desk Project Management Report
+Served as the Project Manager and Scrum Master for part of the Helena College Help Desk Ticketing System project. Oversaw sprint planning, created user stories, wrote acceptance criteria, organized backlog items, reviewed sprint progress, and documented sprint reviews and retrospectives. The sprint work focused on ticket creation, viewing open tickets, viewing ticket details, and updating ticket status.
+**Skills Demonstrated:** Scrum, Agile, Sprint Planning, User Stories, Acceptance Criteria, Backlog Management, Project Documentation  
 **Repository:** Link here
 
-### Sad Final Project 
-Played a role in a team of 2 developing and structureing a plan for a Local college CRM 
+### Systems Analysis and Design Final Project
+Worked as part of a team to analyze, design, and document a proposed CRM-style system for a local college. The project included a system overview, problem analysis, needs assessment, functional requirements, user stories, alternatives, cost feasibility, and system diagrams.
+**Skills Demonstrated:** Systems Analysis, Requirements Gathering, User Stories, Feasibility Analysis, Documentation, ERD/DFD Planning  
 **Repository:** Link here
