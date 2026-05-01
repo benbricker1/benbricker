@@ -8,7 +8,7 @@ Hi, my name is Ben. I am a software development student with experience in .NET,
 A .NET application that organizes files using configurable rules and AI-based classification.
 
 **Technologies:** C#, .NET, JSON, OpenAI API, File I/O  
-**Repository:** Link here
+**Repository:** https://github.com/benbricker1/file-organizer-app
 
 ### Expense Tracker Mobile App - React Native
 A mobile app for tracking expenses, viewing reports, and managing budget data.
