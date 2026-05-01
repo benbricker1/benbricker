@@ -32,7 +32,7 @@ A web service for managing intramural sports leagues, including sports, teams, p
 Took part in developing a web application for creating help desk tickets, posting comments, assigning application roles, assigning technicians, updating ticket status, and managing support tasks. This project was based on a Helena College ticketing system concept and used sprint-based development.
 
 **Technologies:** Java, html, PostgreSQL  
-**Repository:** Link here
+**Repository:** https://github.com/bsteinwand/hcticketsrep_benjamin
 
 ### Helena College Help Desk Project Management Report
 Served as the Project Manager and Scrum Master for part of the Helena College Help Desk Ticketing System project. Oversaw sprint planning, created user stories, wrote acceptance criteria, organized backlog items, reviewed sprint progress, and documented sprint reviews and retrospectives. The sprint work focused on ticket creation, viewing open tickets, viewing ticket details, and updating ticket status.
