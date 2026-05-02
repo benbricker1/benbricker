@@ -1,5 +1,6 @@
 # Ben Bricker - Software Development Portfolio
 
+
 Hi, my name is Ben. I am a software development student with experience in .NET, C#, Java, JavaScript, TypeScript, SQL, React Native, Electron, databases, web APIs, and cloud tools.
 
 ## Featured Projects
@@ -39,6 +40,12 @@ Served as the Project Manager and Scrum Master for part of the Helena College He
 
 **Skills Demonstrated:** Scrum, Agile, Sprint Planning, User Stories, Acceptance Criteria, Backlog Management, Project Documentation  
 **Repository:** https://github.com/benbricker1/helena-college-help-desk-project-management
+
+### Basketball Player Summary App - C# Windows Forms
+A C# Windows Forms desktop application that connects to a SQL Server LocalDB database to display basketball player and league information. The project uses a typed dataset, table adapters, and a database script so the database can be recreated from GitHub.
+
+**Technologies:** C#, Windows Forms, SQL Server LocalDB, Visual Studio, Typed DataSet, TableAdapter, SQL  
+**Repository:** https://github.com/benbricker1/basketball-player-summary-app
 
 ### Systems Analysis and Design Final Project
 Worked as part of a team to analyze, design, and document a proposed CRM-style system for a local college. The project included a system overview, problem analysis, needs assessment, functional requirements, user stories, alternatives, cost feasibility, and system diagrams.
